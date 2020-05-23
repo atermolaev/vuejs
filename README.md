@@ -1,25 +1,25 @@
 # Проект на VueJS
 
-## Project setup
+## Инсталяция проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проекта в среде разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка продакшн версии проекта
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Запуск линтера
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Изменение конфигурации
+Смотри [описание конфигурации](https://cli.vuejs.org/config/).
 
